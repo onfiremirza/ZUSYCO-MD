@@ -10,8 +10,8 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @mirzaonfire , @mr-nima-x 
+Project Name : MIRZA - MD
+Creator : @mirzaonfire , @mr-mirza-x 
 
 */
 
@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "M I R Z A ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://i.ibb.co/YTWznr9/MIRZA     -ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "public",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ᴳᴱᴺᴱᴿᴬᵀᴱᴰ ᴮᵞ ᴹᴵᴿᶻᴬ ᴹᴰ ᴮᴼᵀ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  STICKER_PACK : '[ MIRZA ]',
   BAD_WORDS : 'fuck,pussy,lora,bc,mc,tmkc,bsdk,randi',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -48,7 +48,7 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
@@ -56,7 +56,7 @@ module.exports = {
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
-  AUTO_BGM : true,
+  AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",

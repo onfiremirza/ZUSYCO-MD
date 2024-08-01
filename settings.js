@@ -17,7 +17,7 @@ Creator : @mirzaonfire , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "923168066637",
-  SUDO_NUMBERS : "923168066637,",
+  SUDO_NUMBERS : "923168066637,923437327438",
   OWNER_NAME: "『 Mr MirZa 』",
   BOT_NAME : "M I R Z A ",
   ZUSYCO_FILE : "ZUSYCO-QR",

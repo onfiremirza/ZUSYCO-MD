@@ -12,7 +12,7 @@ module.exports = {
   OWNER_NUMBER: "923168066637",
   SUDO_NUMBERS : "923168066637",
   OWNER_NAME: "『 Mr MirZa 』",
-  BOT_NAME : "M I R Z A ",
+  BOT_NAME : " M I R Z A ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/MIRZA-ALIVE-IMAGE-LOWQ.jpg',

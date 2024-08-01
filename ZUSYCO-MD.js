@@ -10,8 +10,8 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : MIRZA - MD
+Creator : @mirzaonfire , @mr-mirza-x 
 
 This is Whatsapp Bot Project Created By Using Baileys web Api.
 ❌ You Are not Allowed To Edit This File.

@@ -97,7 +97,7 @@ args = []
 
 console = "externalTerminal"
 
-cwd = "."
+cwd = ","
 
 environment = []
 

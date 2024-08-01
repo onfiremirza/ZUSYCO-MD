@@ -17,9 +17,9 @@ Creator : @mirzaonfire , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "923168066637",
-  SUDO_NUMBERS : "923168066637",
+  SUDO_NUMBERS : "923168066637,",
   OWNER_NAME: "『 Mr MirZa 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  BOT_NAME : "M I R Z A ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "public",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ᴳᴱᴺᴱᴿᴬᵀᴱᴰ ᴮᵞ ᴹᴵᴿᶻᴬ ᴹᴰ ᴮᴼᵀ',
   STICKER_PACK : '[ ZUSYCO ]',

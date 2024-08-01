@@ -1,13 +1,6 @@
 /*
 
 
-███████╗██╗░░░██╗░██████╗██╗░░░██╗░█████╗░░█████╗░  ░░░░░░  ███╗░░░███╗██████╗░
-╚════██║██║░░░██║██╔════╝╚██╗░██╔╝██╔══██╗██╔══██╗  ░░░░░░  ████╗░████║██╔══██╗
-░░███╔═╝██║░░░██║╚█████╗░░╚████╔╝░██║░░╚═╝██║░░██║  █████╗  ██╔████╔██║██║░░██║
-██╔══╝░░██║░░░██║░╚═══██╗░░╚██╔╝░░██║░░██╗██║░░██║  ╚════╝  ██║╚██╔╝██║██║░░██║
-███████╗╚██████╔╝██████╔╝░░░██║░░░╚█████╔╝╚█████╔╝  ░░░░░░  ██║░╚═╝░██║██████╔╝
-╚══════╝░╚═════╝░╚═════╝░░░░╚═╝░░░░╚════╝░░╚════╝░  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
-
 
 
 Project Name : MIRZA - MD
@@ -17,12 +10,12 @@ Creator : @mirzaonfire , @mr-mirza-x
 
 module.exports = {
   OWNER_NUMBER: "923168066637",
-  SUDO_NUMBERS : "923168066637,923437327438",
+  SUDO_NUMBERS : "923168066637",
   OWNER_NAME: "『 Mr MirZa 』",
   BOT_NAME : "M I R Z A ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/MIRZA     -ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://i.ibb.co/YTWznr9/MIRZA-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -69,7 +62,7 @@ module.exports = {
     "bitch" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-bitch.mp3",
     "papa" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-papa.mp3",
     "shee" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sheela.mp3",
-    "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
+    "thugs" : "https://github.com/MR-NIMA-X/MIRZ4-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
   AUTO_STICKER : false,

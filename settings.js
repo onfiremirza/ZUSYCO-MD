@@ -30,7 +30,7 @@ module.exports = {
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ᴳᴱᴺᴱᴿᴬᵀᴱᴰ ᴮᵞ ᴹᴵᴿᶻᴬ ᴹᴰ ᴮᴼᵀ',
   STICKER_PACK : '[ MIRZA ]',
-  BAD_WORDS : 'fuck,pussy,lora,bc,mc,tmkc,bsdk,randi,l0ra,penic,lun,lowra,lowre,l'ora,dafa,gand,gandu,vagina,chutiya,stef,chutya,mirza,muthal,bunny,madarchod,bhen,chod,',
+  BAD_WORDS : 'fuck,pussy,lora,bc,mc,tmkc,bsdk,randi,l0ra,penic,lun,lowra,lowre,dafa,gand,gandu,vagina,chutiya,stef,chutya,mirza,muthal,bunny,madarchod,bhen,chod,',
   ANTI_BAD : true,
   ANTI_LINKS : 'true',
   ANTI_LINK : true,
